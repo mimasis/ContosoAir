@@ -1,5 +1,5 @@
 
-[![Build Status](https://mmasis.visualstudio.com/ContosoAir/_apis/build/status/mimasis.ContosoAir?branchName=master)](https://mmasis.visualstudio.com/ContosoAir/_build/latest?definitionId=16&branchName=master)
+[![Build Status](https://dev.azure.com/mmasis/ContosoAir/_apis/build/status/mimasis.ContosoAir?branchName=master)](https://dev.azure.com/mmasis/ContosoAir/_build/latest?definitionId=16&branchName=master)
 
 # Microsoft.Github CI Demo
 
